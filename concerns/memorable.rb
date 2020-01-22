@@ -1,6 +1,4 @@
-
 module Memorable 
- 
   
   def reset.all 
     self.all.clear 
