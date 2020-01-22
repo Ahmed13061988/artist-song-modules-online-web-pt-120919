@@ -1,6 +1,6 @@
-
-require 'pry'
 require_relative'./lib/concerns/memorable.rb'
+require 'pry'
+
 extend :Memorable 
 
 class Artist
