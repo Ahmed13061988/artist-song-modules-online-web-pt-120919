@@ -1,4 +1,4 @@
-
+# 
 require 'pry'
 
 class Song
@@ -28,9 +28,9 @@ class Song
   #   self.all.count
   # end
 
-  # def artist=(artist)
-  #   @artist = artist
-  # end
+  def artist=(artist)
+    @artist = artist
+  end
 
 
 end
